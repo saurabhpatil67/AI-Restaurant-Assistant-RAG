@@ -69,11 +69,12 @@ This project helped me gain practical experience with document chunking, embeddi
 
 The AI Restaurant Assistant follows a Retrieval-Augmented Generation (RAG) pipeline to provide accurate and context-aware responses.
 
-```
-
 <p align="center">
-  <img src="./assets/architecture/rag-architecture.png" alt="RAG Architecture" width="900">
+  <img src="./assets/architecture/rag-architecture.png" alt="RAG Architecture" width="100%">
 </p>
+
+
+```
 
 ```text
 Restaurant Menu PDF
@@ -181,7 +182,7 @@ The demonstration includes:
 ### Sample Conversation
 
 <p align="center">
-  <img src="./assets/screenshots/sample-response.png" width="70%">
+  <img src="./assets/screenshots/sample-response.png" width="100%">
 </p>
 
 *Example of the AI answering restaurant-related questions using the uploaded menu PDF.*
@@ -197,8 +198,6 @@ The assistant can answer questions such as:
 - What are the restaurant timings?
 - Do you have Jain food?
 - What desserts are available?
-- Suggest a meal under ₹200.
-- Which drinks do you serve?
 - What is included in the Veg Thali?
 
 
@@ -238,4 +237,3 @@ MCA Student | AI Automation & Workflow Enthusiast
 
 This project is licensed under the MIT License.
 
-Feel free to explore the project and use it for learning purposes.
