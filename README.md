@@ -75,8 +75,6 @@ The AI Restaurant Assistant follows a Retrieval-Augmented Generation (RAG) pipel
 
 
 ```
-
-```text
 Restaurant Menu PDF
         │
         ▼
